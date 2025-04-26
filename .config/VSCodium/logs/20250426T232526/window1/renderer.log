@@ -1,0 +1,7 @@
+2025-04-26 23:25:30.623 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-26 23:25:30.627 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-python-envs' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-26 23:25:30.628 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatReadonlyPromptReference' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-26 23:25:31.117 [warning] Creation of workbench contribution 'workbench.contrib.preferencesActions' took 37ms.
+2025-04-26 23:25:37.827 [info] Started local extension host with pid 1786.
+2025-04-26 23:25:54.916 [warning] Creation of workbench contribution 'chat.edits.editorContextKeys' took 137ms.
+2025-04-26 23:26:12.061 [info] [perf] Render performance baseline is 170ms

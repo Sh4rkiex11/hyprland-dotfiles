@@ -1,0 +1,67 @@
+[
+  {
+// first monitor
+    "include": [
+      "~/.config/waybar/modules/custom-logo.jsonc",
+      "~/.config/waybar/modules/hyprland-workspaces.jsonc",
+      "~/.config/waybar/modules/hyprland-window.jsonc",
+      "~/.config/waybar/modules/music.jsonc"
+      "~/.config/waybar/modules/custom-weather.jsonc",
+      "~/.config/waybar/modules/hyprland-language.jsonc",
+      "~/.config/waybar/modules/clock.jsonc",
+      "~/.config/waybar/modules/network.jsonc",
+      "~/.config/waybar/modules/pulseaudio.jsonc",
+      "~/.config/waybar/modules/battery.jsonc",
+      "~/.config/waybar/modules/tray.jsonc",
+      "~/.config/waybar/modules/custom-notifications.jsonc"
+    ],
+    "modules-left": [
+      "custom/arch",
+      "clock#cl1",
+      "hyprland/workspaces"
+    ],
+    "modules-center": [
+      "hyprland/window"
+    ],
+    "modules-right": [
+      "network",
+      "bluetooth",
+      "hyprland/language",
+      "custom/weather",
+      "pulseaudio",
+      "battery",
+      "tray",
+      "custom/notifications"
+    ],
+    "height": 35,
+    "position": "top",
+    "layer": "top",
+    "mode": "dock",
+    "exclusive": false,
+    "passtrough": false,
+    "gtk-layer-shell": true,
+    "margin-top": 5,
+    "margin-left": 10,
+    "margin-bottom": 0,
+    "margin-right": 10,
+    "output": "eDP-1"
+  },
+  {
+// second monitor center
+    "modules-center": [
+      "custom/music"
+    ],
+    "height": 35,
+    "position": "top",
+    "layer": "top",
+    "mode": "dock",
+    "exclusive": false,
+    "passtrough": false,
+    "gtk-layer-shell": true,
+    "margin-top": 5,
+    "margin-left": 10,
+    "margin-bottom": 0,
+    "margin-right": 10,
+    "output": "HDMI-A-1"
+  }
+]

@@ -1,0 +1,13 @@
+[ExtractDialog]
+1280x800 screen: Window-Maximized=true
+1365x853 screen: Window-Maximized=true
+1600x1000 screen: Window-Maximized=true
+2 screens: Window-Maximized=true
+DirHistory[$e]=$HOME/.config/hypr/walls/,$HOME/,$HOME/Downloads/
+
+[Extraction]
+closeAfterExtraction=true
+
+[General]
+LockSidebar=true
+ShowSidebar=true

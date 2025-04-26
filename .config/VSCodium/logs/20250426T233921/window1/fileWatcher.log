@@ -1,0 +1,2 @@
+2025-04-26 23:39:47.338 [error] [File Watcher] Unexpected error: inotify_add_watch on '/home/miles/.config/VSCodium/logs/20250426T090654/window1/exthost/vscode.git' failed: No such file or directory (EUNKNOWN) (path: /home/miles/.config)
+2025-04-26 23:39:47.338 [error] [File Watcher (universal)] inotify_add_watch on '/home/miles/.config/VSCodium/logs/20250426T090654/window1/exthost/vscode.git' failed: No such file or directory

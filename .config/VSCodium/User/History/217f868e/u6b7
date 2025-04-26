@@ -1,0 +1,10 @@
+[Unit]
+Description=Launch apps on Hyprland startup
+After=graphical-session.target
+
+[Service]
+Type=oneshot
+ExecStart=/home/youruser/.config/hypr/startup.sh
+
+[Install]
+WantedBy=default.target

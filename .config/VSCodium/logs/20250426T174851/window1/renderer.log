@@ -1,0 +1,59 @@
+2025-04-26 17:48:56.896 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-26 17:48:56.917 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-python-envs' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-26 17:48:56.929 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatReadonlyPromptReference' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-26 17:48:57.853 [warning] Creation of workbench contribution 'workbench.contrib.extensionPoints' took 26ms.
+2025-04-26 17:48:57.978 [warning] Creation of workbench contribution 'workbench.contrib.preferencesActions' took 123ms.
+2025-04-26 17:48:58.045 [warning] Creation of workbench contribution 'workbench.contrib.explorerViewletViews' took 44ms.
+2025-04-26 17:48:58.118 [warning] Creation of workbench contribution 'workbench.contrib.remoteStatusIndicator' took 26ms.
+2025-04-26 17:48:58.242 [warning] Creation of workbench contribution 'workbench.contrib.chatEditsView' took 21ms.
+2025-04-26 17:48:58.319 [warning] Creation of workbench contribution 'mcpContextKeys' took 38ms.
+2025-04-26 17:48:58.377 [warning] Creation of workbench contribution 'workbench.contrib.interactiveDocument' took 36ms.
+2025-04-26 17:49:03.830 [info] Started local extension host with pid 1708.
+2025-04-26 17:49:23.886 [warning] Creation of workbench contribution 'chat.builtinTools' took 108ms.
+2025-04-26 17:49:29.051 [info] [perf] Render performance baseline is 304ms
+2025-04-26 20:30:03.225 [error] Failed: Failed to fetch
+    at mqe.queryRawGalleryExtensions (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1838:39062)
+    at async mqe.queryGalleryExtensionsWithAllVersionsAsFallback (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1838:33194)
+    at async a (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1838:31658)
+    at async mqe.query (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1838:31993)
+    at async rat.queryGallery (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2514:20051)
+    at async Promise.all (index 0)
+    at async j4s.queryGallery (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2306:26690)
+    at async j4s.query (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2306:17030)
+    at async vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2306:15007
+2025-04-26 20:30:19.707 [error] Failed: Failed to fetch
+    at mqe.queryRawGalleryExtensions (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1838:39062)
+    at async mqe.queryGalleryExtensionsWithAllVersionsAsFallback (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1838:33194)
+    at async a (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1838:31658)
+    at async mqe.query (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1838:31993)
+    at async rat.queryGallery (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2514:20051)
+    at async Promise.all (index 0)
+    at async j4s.queryGallery (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2306:26690)
+    at async j4s.query (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2306:17030)
+    at async vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2306:15007
+2025-04-26 20:31:01.987 [error] Failed: Failed to fetch
+    at mqe.queryRawGalleryExtensions (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1838:39062)
+    at async mqe.queryGalleryExtensionsWithAllVersionsAsFallback (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1838:33194)
+    at async a (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1838:31658)
+    at async mqe.query (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1838:31993)
+    at async rat.queryGallery (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2514:20051)
+    at async Promise.all (index 0)
+    at async j4s.queryGallery (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2306:26690)
+    at async j4s.query (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2306:17030)
+    at async vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2306:15007
+2025-04-26 20:31:10.229 [error] Failed: Failed to fetch
+    at mqe.queryRawGalleryExtensions (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1838:39062)
+    at async mqe.queryGalleryExtensionsWithAllVersionsAsFallback (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1838:33194)
+    at async a (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1838:31658)
+    at async mqe.query (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:1838:31993)
+    at async rat.queryGallery (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2514:20051)
+    at async Promise.all (index 0)
+    at async j4s.queryGallery (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2306:26690)
+    at async j4s.query (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2306:17030)
+    at async vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2306:15007
+2025-04-26 21:49:57.747 [error] Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+2025-04-26 21:55:06.178 [error] Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+2025-04-26 21:57:16.624 [error] Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.

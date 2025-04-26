@@ -1,0 +1,6 @@
+{
+    "workbench.colorTheme": "Catppuccin Mocha",
+    "workbench.iconTheme": "catppuccin-mocha",
+    "explorer.confirmDelete": false,
+    "security.workspace.trust.untrustedFiles": "newWindow"
+}

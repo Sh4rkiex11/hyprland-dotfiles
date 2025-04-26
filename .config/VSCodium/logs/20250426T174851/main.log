@@ -1,0 +1,11 @@
+2025-04-26 17:48:53.122 [info] update#setState disabled
+2025-04-26 17:48:53.122 [info] update#ctor - updates are disabled as there is no update URL
+2025-04-26 23:15:44.585 [error] ptyHost terminated unexpectedly with code 32512
+2025-04-26 23:15:44.595 [warning] [UtilityProcess type: ptyHost, pid: 108892]: unable to kill the process
+2025-04-26 23:15:44.711 [error] ptyHost terminated unexpectedly with code 32512
+2025-04-26 23:15:44.712 [warning] [UtilityProcess type: ptyHost, pid: 108933]: unable to kill the process
+2025-04-26 23:15:44.779 [error] ptyHost terminated unexpectedly with code 32512
+2025-04-26 23:15:44.782 [warning] [UtilityProcess type: ptyHost, pid: 108938]: unable to kill the process
+2025-04-26 23:15:44.847 [info] Extension host with pid 1708 exited with code: 0, signal: unknown.
+2025-04-26 23:15:45.114 [error] [UtilityProcess type: ptyHost, pid: 108947]: crashed with code 32512 and reason 'abnormal-exit'
+2025-04-26 23:15:45.153 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 1688]: crashed with code 15 and reason 'killed'

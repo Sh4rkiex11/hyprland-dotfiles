@@ -1,0 +1,5 @@
+2025-04-26 23:19:10.347 [info] Started initializing default profile extensions in extensions installation folder. file:///home/miles/.vscode-oss/extensions
+2025-04-26 23:19:10.908 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/miles/.vscode-oss/extensions
+2025-04-26 23:19:10.921 [info] Started initializing default profile extensions in extensions installation folder. file:///home/miles/.vscode-oss/extensions
+2025-04-26 23:19:10.953 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/miles/.vscode-oss/extensions Unable to create file 'vscode-userdata:/home/miles/.vscode-oss/extensions/extensions.json' that already exists when overwrite flag is not set
+2025-04-26 23:19:10.954 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/miles/.vscode-oss/extensions

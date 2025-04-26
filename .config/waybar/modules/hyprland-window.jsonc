@@ -1,0 +1,13 @@
+{
+  "hyprland/window": {
+    "format": "{}",
+    "max-length": 50,
+    "rewrite": {
+      "(.*) — zen": "$1 󰇧",
+      "(.*)VSCodium": "Codium 󰨞",
+      "(.*)Spotify": "Spotify 󰓇",
+      "(.*)Steam": "Steam 󰓓",
+    },
+    "separate-outputs": false,
+  },
+}
