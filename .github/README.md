@@ -1,5 +1,4 @@
 # 💖 My dotfiles
-<link rel="stylesheet" href=".github/style.css">
 <p>
 <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png">
 <p>
@@ -7,7 +6,7 @@
 <!--- Buttons --->
 *the buttons don't work now
 
-<button class="button" role="button">About</button>
-<button class="button" role="button">Install</button>
-<button class="button" role="button">Gelery</button>
-<button class="button" role="button">Credits</button>
+<img src="/.github/assets/About.png">
+<img src="/.github/assets/Install.png">
+<img src="/.github/assets/Gallery.png">
+<img src="/.github/assets/Credits.png">
