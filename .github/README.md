@@ -1,4 +1,4 @@
-# My dotfiles
+# 💖 My dotfiles
 <link rel="stylesheet" href=".github/style.css">
 <p>
 <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png">
