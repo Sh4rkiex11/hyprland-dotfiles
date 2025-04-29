@@ -1,6 +1,0 @@
-2025/04/26-23:39:21.483 376 Reusing MANIFEST /home/miles/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2025/04/26-23:39:21.557 376 Recovering log #9
-2025/04/26-23:39:21.558 376 Reusing old log /home/miles/.config/discord/Local Storage/leveldb/000009.log 
-2025/04/27-00:00:25.508 376 Level-0 table #13: started
-2025/04/27-00:00:25.521 376 Level-0 table #13: 39238 bytes OK
-2025/04/27-00:00:25.541 376 Delete type=0 #9
