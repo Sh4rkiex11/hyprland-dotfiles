@@ -5,6 +5,6 @@
 <p>
 <!--- Buttons --->
 <img src="/.github/assets/About.png">
-<img src="/.github/assets/Setup.png">
+<img src="/.github/assets/Setupx.png">
 <img src="/.github/assets/Gallery.png">
 <img src="/.github/assets/Credits.png">
