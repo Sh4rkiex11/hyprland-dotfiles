@@ -1,0 +1,6 @@
+2025-04-29 12:04:01.881 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-04-29 12:04:02.441 [info] Started local extension host with pid 1513.
+2025-04-29 12:04:06.190 [info] [perf] Render performance baseline is 34ms
+2025-04-29 12:10:38.851 [warning] [backup tracker] suspended, ignoring register event file:///home/miles/.config/Code%20-%20OSS/Code%20Cache/js/index 
+2025-04-29 12:10:39.600 [warning] [lifecycle] onWillShutdown is taking a long time, pending operations: join.closeStorage
+2025-04-29 12:10:39.656 [warning] [backup tracker] suspended, ignoring unregister event file:///home/miles/.config/Code%20-%20OSS/Code%20Cache/js/index 
