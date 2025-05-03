@@ -1,7 +1,8 @@
 #!/bin/bash
 
 # Apps
+firefox &
 spotify &
-discotd &
+discord &
 thunderbird &
 obsidian &
