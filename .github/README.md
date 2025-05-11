@@ -7,6 +7,7 @@
 This is my personal dotfiles repository, made to make it convenient for me to backup my hyprland
 
 # 🖼 Galery
+I don't have a screenshots now
 
 # ⏬ Install
 
