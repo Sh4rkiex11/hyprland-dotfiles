@@ -4,7 +4,7 @@
 <p>
 
 # ℹ️About
-This is my personal dotfiles repository made for that it would be convenient for me to do a backup copy of the my hyprland
+This is my personal dotfiles repository, made to make it convenient for me to backup my hyprland
 
 # 🖼 Galery
 
