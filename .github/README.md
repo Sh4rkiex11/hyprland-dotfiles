@@ -43,7 +43,7 @@
 ```
 yay -Sy hyprland hyprlock hypridle hyprpicker hyprpaper xdg-desktop-portal-hyprland \
         waybar waybar-updates rofi-wayland swaync wl-clipboard cliphist \
-        swayosd-git brightnessctl udiskie devify polkit-gnome playerctl \
+        swayosd-git brightnessctl polkit-gnome playerctl \
         grim slurp fastfetch fish yazi satty nemo yadm \
         swayosd-git
 ```
@@ -51,7 +51,7 @@ yay -Sy hyprland hyprlock hypridle hyprpicker hyprpaper xdg-desktop-portal-hyprl
 <h3>📦 optional apps/utils</h3>
 
 ```
-yay -S zen-browser-bin discord obsidian spotify
+yay -S zen-browser-bin discord obsidian spotify lazygit-git lazydocker
 ```
 
 <h3>🎨 Color themes</h3>
