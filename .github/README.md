@@ -44,7 +44,8 @@
 yay -Sy hyprland hyprlock hypridle hyprpicker hyprpaper xdg-desktop-portal-hyprland \
         waybar waybar-updates rofi-wayland swaync wl-clipboard cliphist \
         swayosd-git brightnessctl udiskie devify polkit-gnome playerctl \
-        grim slurp fastfetch fish yazi satty nemo yadm
+        grim slurp fastfetch fish yazi satty nemo yadm \
+        swayosd-git
 ```
 
 <h3>📦 optional apps/utils</h3>
