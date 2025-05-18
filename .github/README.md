@@ -45,15 +45,17 @@ yay -Sy hyprland hyprlock hypridle hyprpicker hyprpaper xdg-desktop-portal-hyprl
         waybar waybar-updates rofi-wayland swaync wl-clipboard cliphist \
         swayosd-git brightnessctl polkit-gnome playerctl \
         grim slurp fastfetch fish yazi satty nemo yadm \
-        swayosd-git
+        swayosd-git wttr wttrbar cava
 ```
 
-<h3>📦 optional apps/utils</h3>
+<details>
+<summary><h3>📦 optional apps/utils</h3></summary>
 
 ```
-yay -S zen-browser-bin discord obsidian spotify lazygit-git lazydocker
+yay -S zen-browser-bin discord obsidian spotify lazygit-git lazydocker thunderbird krita libreoffice obs-studio-git steam
 ```
 
+</details>
 <h3>🎨 Color themes</h3>
 
 ```
