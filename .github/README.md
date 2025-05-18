@@ -93,15 +93,15 @@ yay -Sy ttf-jetbrains-mono-nerd ttf-nerd-fonts-symbols ttf-nerd-fonts-symbols-mo
 fc-cache -fv
 ```
 
-<h2>💾 Dotfiles Installation<h2>
+<h2>💾 Dotfiles Installation</h2>
 
-<h4>🌟 Yadm Method</h4>
+<h3>🌟 Yadm Method</h3>
 
 ```
 yadm clone https://github.com/Matt-FTW/dotfiles.git
 ```
 
-<h4>🚀 Git Method</h4>
+<h3>🚀 Git Method</h3>
 
 ```
 git clone https://github.com/sh4rkiex11/Dotfiles.git
