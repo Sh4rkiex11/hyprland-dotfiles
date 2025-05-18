@@ -8,13 +8,27 @@
 <details>
 <summary><h1>ℹ️About</h1></summary>
 <p>This is my personal dotfiles repository, made to make it convenient for me to backup my hyprland</p>
+<h2>🌸 Core System Info</h2>
+<ul>
+<li><b>OS:</b> Arch Linux 💥</li>
+<li> <b>WM:</b> hyprland 🪟</li>
+<li> <b>Shell:</b> fish 🐚</li>
+<li> <b>Terminal Emulator:</b> kitty 😺</li>
+<li> <b>Panel:</b> waybar 🍧</li>
+<li> <b>Text Editor:</b> neovim /VScode⌨️</li>
+<li> <b>App Launcher:</b> rofi 🚀</li>
+<li> <b>File Manager:</b> yazi / nemo 📂</li>
+<li> <b>Browser:</b> Zen-Browser 🌐</li>
+<li> <b>Notification Manager:</b> swaync 🔕</li>
+<li> <b>Colorscheme:</b> Catppuccin 🎨</li>
+</ul>
 </details>
 </div>
 
 <div>
 <details>
 <summary><h1>🖼 Gallery</h1></summary>
-<p>I don't have a screenshots now<p>
+<p>I don't have a screenshots now:D<p>
 </details>
 </div>
 
@@ -22,14 +36,9 @@
 <details>
 <summary><h1>⏬ Install</h1></summary>
 
-# 📤 Dependencies Installation
+<h2>📤 Dependencies Installation</h12>
 
-## optional
-```
-yay -S zen-browser-bin discord obsidian spotify
-```
-
-## Necessarily
+<h3>📦 Necessarily apps/utils</h3>
 
 ```
 yay -Sy hyprland hyprlock hypridle hyprpicker hyprpaper xdg-desktop-portal-hyprland \
@@ -38,54 +47,60 @@ yay -Sy hyprland hyprlock hypridle hyprpicker hyprpaper xdg-desktop-portal-hyprl
         grim slurp fastfetch fish yazi satty nemo yadm
 ```
 
-## Color themes
+<h3>📦 optional apps/utils</h3>
+
+```
+yay -S zen-browser-bin discord obsidian spotify
+```
+
+<h3>🎨 Color themes</h3>
 
 ```
 yay -Sy catppuccin-gtk-theme-mocha bibata-cursor-theme-bin \
         qt5ct qt5-wayland qt6-wayland kvantum kvantum-qt5 nwg-look
 ```
 
-## Icon themes
+<h3>📸 Icon themes</h3>
 
 ```
 curl -LJO https://github.com/ljmill/catppuccin-icons/releases/download/v0.2.0/Catppuccin-SE.tar.bz2
 ```
 
-Extract the compressed package.
+<p>Extract the compressed package.</p>
 
 ```
 tar -xf Catppuccin-SE.tar.bz2
 ```
 
-And move them to the ~/.local/share/icons directory.
+<p>And move them to the ~/.local/share/icons directory.</p>
 
 ```
 mv Catppuccin-SE ~/.local/share/icons/
 ```
 
 
-## Fonts
+<h3>🗛 Fonts </h3>
 
 ```
 yay -Sy ttf-jetbrains-mono-nerd ttf-nerd-fonts-symbols ttf-nerd-fonts-symbols-mono \
         ttf-nerd-fonts-symbols-common ttf-font-awesome noto-fonts-cjk ttf-ms-win11-auto
 ```
 
-Refresh the font cache:
+<p>Refresh the font cache:</p>
 
 ```
 fc-cache -fv
 ```
 
-# 💾 Dotfiles Installation
+<h2>💾 Dotfiles Installation<h2>
 
-### 🌟 Yadm Method
+<h4>🌟 Yadm Method</h4>
 
 ```
 yadm clone https://github.com/Matt-FTW/dotfiles.git
 ```
 
-### 🚀 Git Method
+<h4>🚀 Git Method</h4>
 
 ```
 git clone https://github.com/sh4rkiex11/Dotfiles.git
