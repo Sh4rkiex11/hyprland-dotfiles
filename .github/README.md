@@ -98,7 +98,7 @@ fc-cache -fv
 <h3>🌟 Yadm Method</h3>
 
 ```
-yadm clone https://github.com/Matt-FTW/dotfiles.git
+yadm clone https://github.com/sh4rkiex11/Dotfiles.git
 ```
 
 <h3>🚀 Git Method</h3>
