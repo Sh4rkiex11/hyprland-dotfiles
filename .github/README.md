@@ -45,7 +45,7 @@ yay -Sy hyprland hyprlock hypridle hyprpicker hyprpaper xdg-desktop-portal-hyprl
         waybar waybar-updates rofi-wayland swaync wl-clipboard cliphist \
         swayosd-git brightnessctl polkit-gnome playerctl \
         grim slurp fastfetch fish yazi satty nemo yadm \
-        swayosd-git wttr wttrbar cava
+        wttr wttrbar cava
 ```
 
 <details>
