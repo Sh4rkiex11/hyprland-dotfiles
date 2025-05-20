@@ -100,13 +100,13 @@ fc-cache -fv
 <h3>🌟 Yadm Method</h3>
 
 ```
-yadm clone https://github.com/sh4rkiex11/Dotfiles.git
+yadm clone https://github.com/sh0rkie/dotfiles.git
 ```
 
 <h3>🚀 Git Method</h3>
 
 ```
-git clone https://github.com/sh4rkiex11/Dotfiles.git
+git clone https://github.com/sh0rkie/dotfiles.git
 cd Dotfiles
 cp -r .config/* ~/.config/
 ```
