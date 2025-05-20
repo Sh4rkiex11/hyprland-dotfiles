@@ -41,11 +41,7 @@
 <h3>📦 Necessarily apps/utils</h3>
 
 ```
-yay -Sy hyprland hyprlock hypridle hyprpicker hyprpaper xdg-desktop-portal-hyprland \
-        waybar waybar-updates rofi-wayland swaync wl-clipboard cliphist \
-        swayosd-git brightnessctl polkit-gnome playerctl \
-        grim slurp fastfetch fish yazi satty nemo yadm \
-        wttr wttrbar cava
+yay -Sy hyprland hyprlock hypridle hyprpicker hyprpaper xdg-desktop-portal-hyprland waybar waybar-updates rofi-wayland swaync wl-clipboard cliphist swayosd-git brightnessctl polkit-gnome playerctl grim slurp fastfetch fish yazi satty nemo yadm wttr wttrbar cava
 ```
 
 <details>
@@ -59,8 +55,7 @@ yay -S zen-browser-bin discord obsidian spotify lazygit-git lazydocker thunderbi
 <h3>🎨 Color themes</h3>
 
 ```
-yay -Sy catppuccin-gtk-theme-mocha bibata-cursor-theme-bin \
-        qt5ct qt5-wayland qt6-wayland kvantum kvantum-qt5 nwg-look
+yay -Sy catppuccin-gtk-theme-mocha bibata-cursor-theme-bin qt5ct qt5-wayland qt6-wayland kvantum kvantum-qt5 nwg-look
 ```
 
 <h3>📸 Icon themes</h3>
@@ -85,8 +80,7 @@ mv Catppuccin-SE ~/.local/share/icons/
 <h3>🗛 Fonts </h3>
 
 ```
-yay -Sy ttf-jetbrains-mono-nerd ttf-nerd-fonts-symbols ttf-nerd-fonts-symbols-mono \
-        ttf-nerd-fonts-symbols-common ttf-font-awesome noto-fonts-cjk ttf-ms-win11-auto
+yay -Sy ttf-jetbrains-mono-nerd ttf-nerd-fonts-symbols ttf-nerd-fonts-symbols-mono ttf-nerd-fonts-symbols-common ttf-font-awesome noto-fonts-cjk ttf-ms-win11-auto
 ```
 
 <p>Refresh the font cache:</p>
@@ -117,11 +111,45 @@ cp -r .config/* ~/.config/
 <div>
 <details>
 <summary><h1>🔁 Update</h1></summary>
+<h2>🔁Update packages:</h2>
+        
+```
+yay -Syu
+pacman -Syu
+```
+
+<h2>🔁Update dotfiles:</h2>
+<h3>🌟 Yadm Method</h3>
+
+```
+yadm pull
+```
+
+<h3>🚀 Git Method</h3>
+
+```
+git clone https://github.com/sh0rkie/dotfiles.git
+cd Dotfiles
+cp -r .config/* ~/.config/
+```
+
 </details>
 </div>
 
 <div>
-<details>
-<summary><h1>👏 Credits</h1></summary>
-</details>
+<details> <summary><h1>👏 Credits</h1></summary>
+<ul>
+<li>
+<a href="https://github.com/catppuccin">Catppuccin Theme</a> – for the beautiful style ✨
+</li>
+<li>
+<a href="https://github.com/hyprwm/Hyprland">Hyprland</a>– next-gen dynamic tiling Wayland WM 🪟
+</li>
+<li>
+<a href="https://wiki.archlinux.org/">Arch Wiki</a> – best documentation ever 📚
+</li>
+<li>
+<a href="https://github.com/folke/lazy.nvim">lazy.nvim</a> – for Neovim plugin management 🚀</li>
+</ul>
+<p>And special thanks to the Linux and r/unixporn community!</p> </details>
 </div>
