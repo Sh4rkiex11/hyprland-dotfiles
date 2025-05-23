@@ -24,9 +24,5 @@ hypridle &
 # Clipboard
 wl-paste --watch cliphist store &
 
-# Screen sharing and portals
-"$HOME"/.config/hypr/portal &
-# xwaylandvideobridge & # Off when using Vesktop instead of Discord
-
 # Audio
 easyeffects --gapplication-service &

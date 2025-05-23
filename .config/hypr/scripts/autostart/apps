@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Apps
-firefox &
+zen-browser-bin &
 spotify &
 discord &
 thunderbird &
