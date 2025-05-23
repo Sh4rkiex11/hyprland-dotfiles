@@ -17,7 +17,7 @@
     ],
     "modules-left": [
       "custom/arch",
-      "clock#cl1",
+      "clock",
       "hyprland/workspaces",
     ],
     "modules-center": [
