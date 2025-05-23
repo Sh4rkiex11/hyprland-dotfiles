@@ -1,12 +1,7 @@
 <h1>💖 My dotfiles</h1>
 
-<p>
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png">
-</p>
-
 <div>
-<details>
-<summary><h1>ℹ️About</h1></summary>
+<h1>ℹ️About</h1>
 <p>This is my personal dotfiles repository, made to make it convenient for me to backup my hyprland</p>
 <h2>🌸 Core System Info</h2>
 <ul>
@@ -22,7 +17,6 @@
 <li> <b>Notification Manager:</b> swaync 🔕</li>
 <li> <b>Colorscheme:</b> Catppuccin 🎨</li>
 </ul>
-</details>
 </div>
 
 <div>
