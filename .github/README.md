@@ -35,7 +35,7 @@
 <h3>📦 Necessarily apps/utils</h3>
 
 ```
-yay -Sy hyprland hyprlock hypridle hyprpicker hyprpaper xdg-desktop-portal-hyprland waybar waybar-updates rofi-wayland swaync wl-clipboard cliphist swayosd-git brightnessctl polkit-gnome playerctl grim slurp fastfetch fish yazi satty nemo yadm wttr wttrbar cava
+yay -Sy hyprland hyprlock hypridle hyprpicker hyprpaper xdg-desktop-portal-hyprland waybar waybar-updates rofi-wayland swaync wl-clipboard cliphist swayosd-git brightnessctl polkit-gnome playerctl grim slurp fastfetch fish yazi satty nemo yadm wttr wttrbar cava devify easyeffects-git udiskie 
 ```
 
 <details>
