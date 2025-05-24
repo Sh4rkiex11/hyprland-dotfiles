@@ -1,0 +1,18 @@
+2025-05-24 09:46:27.345 [info] Extension host with pid 1233 started
+2025-05-24 09:46:27.689 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-05-24 09:46:27.948 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-05-24 09:46:28.199 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-05-24 09:46:28.459 [info] Eager extensions activated
+2025-05-24 09:46:28.530 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-05-24 09:46:28.541 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-05-24 09:46:49.618 [info] Extension host terminating: renderer closed the MessagePort
+2025-05-24 09:46:49.659 [info] Extension host with pid 1233 exiting with code 0
+2025-05-24 09:46:53.482 [info] Extension host with pid 1390 started
+2025-05-24 09:46:53.482 [info] Skipping acquiring lock for /home/miles/.config/Code - OSS/User/workspaceStorage/a4de76c5493e647522bf87e75beb6f02.
+2025-05-24 09:46:53.499 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2025-05-24 09:46:53.548 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-05-24 09:46:53.691 [info] Eager extensions activated
+2025-05-24 09:46:53.753 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-05-24 09:46:53.764 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-05-24 09:46:57.916 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2025-05-24 09:47:02.748 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'

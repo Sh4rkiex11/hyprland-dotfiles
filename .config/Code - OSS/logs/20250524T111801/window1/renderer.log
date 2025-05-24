@@ -1,0 +1,9 @@
+2025-05-24 11:18:07.067 [warning] Creation of workbench contribution 'workbench.contrib.preferencesActions' took 43ms.
+2025-05-24 11:18:14.199 [info] Started local extension host with pid 147032.
+2025-05-24 11:18:16.305 [info] ComputeTargetPlatform: linux-x64
+2025-05-24 11:18:29.484 [warning] Creation of workbench contribution 'notebook.contrib.editorStatus' took 182ms.
+2025-05-24 11:18:39.277 [info] [perf] Render performance baseline is -1ms
+2025-05-24 11:19:00.066 [info] Started local extension host with pid 147324.
+2025-05-24 11:19:00.144 [info] ComputeTargetPlatform: linux-x64
+2025-05-24 11:19:05.010 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-05-24 11:19:21.311 [info] [perf] Render performance baseline is 412ms

@@ -1,0 +1,86 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "6363807f10967c13c3ac88725b8d7651574cc96465609cd326df812c2b63aa65",
+    "telemetry.devDeviceId": "20618f56-6d90-4790-8942-583457cd1c80",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/miles/.config"
+            },
+            {
+                "folderUri": "file:///home/miles/Documents/GitHub/dotfiles"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 73,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/miles/.config": "__default__profile__",
+            "file:///home/miles/Documents/GitHub/dotfiles": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/miles/Documents/GitHub/dotfiles",
+            "backupPath": "/home/miles/.config/Code - OSS/Backups/edd0b68801be7dccc146e853be0a39d5",
+            "uiState": {
+                "mode": 1,
+                "x": 27,
+                "y": 124,
+                "width": 1393,
+                "height": 1648,
+                "zoomLevel": 4
+            }
+        },
+        "openedWindows": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1f1f1f",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1f1f1f",
+            "editorBackground": "#1f1f1f",
+            "titleBarBackground": "#181818",
+            "titleBarBorder": "#2b2b2b",
+            "activityBarBackground": "#181818",
+            "activityBarBorder": "#2b2b2b",
+            "sideBarBackground": "#181818",
+            "sideBarBorder": "#2b2b2b",
+            "statusBarBackground": "#181818",
+            "statusBarBorder": "#2b2b2b",
+            "statusBarNoFolderBackground": "#1f1f1f"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 300,
+            "auxiliarySideBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 300,
+            "auxiliaryBarWidth": 300,
+            "workspaces": {
+                "a4de76c5493e647522bf87e75beb6f02": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "72edc044580d86c53f2fa322e7744cb7": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
+    }
+}

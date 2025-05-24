@@ -1,0 +1,7 @@
+[Added Associations]
+application/x-tar=ark-2.desktop;
+application/zip=ark.desktop;
+
+[Default Applications]
+application/x-tar=ark-2.desktop;
+application/zip=ark.desktop;

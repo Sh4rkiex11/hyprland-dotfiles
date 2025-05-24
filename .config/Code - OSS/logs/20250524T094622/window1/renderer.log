@@ -1,0 +1,10 @@
+2025-05-24 09:46:25.172 [info] Started local extension host with pid 1233.
+2025-05-24 09:46:25.406 [info] Started initializing default profile extensions in extensions installation folder. file:///home/miles/.vscode-oss/extensions
+2025-05-24 09:46:25.989 [info] ComputeTargetPlatform: linux-x64
+2025-05-24 09:46:26.024 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-05-24 09:46:26.098 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/miles/.vscode-oss/extensions
+2025-05-24 09:46:28.978 [info] [perf] Render performance baseline is 50ms
+2025-05-24 09:46:51.328 [info] Started local extension host with pid 1390.
+2025-05-24 09:46:52.218 [info] ComputeTargetPlatform: linux-x64
+2025-05-24 09:46:52.322 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-05-24 09:46:55.953 [info] [perf] Render performance baseline is 128ms
