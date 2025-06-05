@@ -96,7 +96,7 @@ yadm clone https://github.com/sh0rkie/dotfiles.git
 ```
 git clone https://github.com/sh0rkie/dotfiles.git
 cd Dotfiles
-cp -r .config/* ~/.config/
+mv ~/.config ~/.configold && cp -r .config ~/.config
 ```
 
 </details>
